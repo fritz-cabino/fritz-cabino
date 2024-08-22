@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fritz-cabino
+- 👋 Hi, I’m @fritz-cabino, aka Kurt Yeager
 - 👀 I’m interested in marine robotics in K12, JC and university education
 - 🌱 I’m learning something new every day
 - 💞️ I’m looking to collaborate on low cost marine robotics projects for schools
